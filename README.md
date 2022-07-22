@@ -1,4 +1,4 @@
-#Laravel_MixApp
+# Laravel_MixApp
 ## Installation
 1. Clone the project
 2. Go to the project root directory and run `composer install` and `npm install`
